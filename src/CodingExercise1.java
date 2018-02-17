@@ -6,7 +6,7 @@ import org.jointheleague.graphical.robot.Robot;
 public class CodingExercise1 {
 
     public static void main(String[] args) {
-    	Robot hi = new Robot();{	 
+    	Robot hi = new Robot();{
     		// 3. ask the user what color they would like the Robot to draw
 String color=JOptionPane.showInputDialog("pick a color");
 String red = "red";
